@@ -132,7 +132,7 @@ body {
         order: -1;
         flex-direction: column;
         flex-wrap: nowrap;
-        max-height: 80vh;
+        max-height: 75vh;
         justify-content: flex-start;
         padding-right: 1rem;
     }
